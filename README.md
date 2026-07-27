@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing my Bachelors in GNITC, Hyderabad, Telangana, India.
 - 📫 How to reach me: e-mail me lalithchaitanya.mulapala@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I put on my Bluetooth and drown in the flow my music playlist.
+- ⚡ Fun fact: I put on my Bluetooth and drown in the playlist.
 
 <!---
 LalithChaitanya1701/LalithChaitanya1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
