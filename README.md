@@ -36,7 +36,7 @@ and **teaching machines to see**. Off the track, you'll find me watching F1
 
 ---
 
-## 📡 Live Telemetry: Skills
+## Live Telemetry: Skills
 
 ```text
  CYBERSECURITY CORE
@@ -63,7 +63,7 @@ and **teaching machines to see**. Off the track, you'll find me watching F1
 
 ---
 
-## 🛠️ Pit Stop: Currently Learning
+## Pit Stop: Currently Learning
 
 - 🔐 Sharpening my cybersecurity fundamentals, from network defense to incident response
 - ☁️ Cloud security and compliance automation
@@ -78,7 +78,7 @@ and **teaching machines to see**. Off the track, you'll find me watching F1
 
 ---
 
-## 📊 Race Data
+## Race Data
 
 <div align="center">
 
@@ -127,6 +127,8 @@ and **teaching machines to see**. Off the track, you'll find me watching F1
 </div>
 
 <div align="center">
+
+*"Securing systems at the speed of a track day."*
 
 *"Still I rise."* 🏁
 
